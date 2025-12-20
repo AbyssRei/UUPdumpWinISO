@@ -1,7 +1,7 @@
 name: Windows11_24H2_amd64
 
-#on: workflow_dispatch
-on: [push, pull_request]
+on: workflow_dispatch
+#on: [push, pull_request]
 
 env:
   Build_VERSION: '26100.7462'

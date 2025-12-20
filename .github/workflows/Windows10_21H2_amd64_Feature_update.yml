@@ -1,7 +1,7 @@
 name: Windows10_21H2_amd64_Feature_update
 
-#on: workflow_dispatch
-on: [push, pull_request]
+on: workflow_dispatch
+#on: [push, pull_request]
 
 env:
   Build_VERSION: '19044.6691'
